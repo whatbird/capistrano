@@ -2,6 +2,11 @@
 
 Reverse Chronological Order:
 
+## master
+
+* Minor changes:
+  * Amended the git check command, "ls-remote", to use "-h", limiting the list to refs/heads
+
 ## `3.1.0`
 
 Breaking changes:
